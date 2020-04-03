@@ -1,6 +1,5 @@
-# Desafio - Private Code
- 
- ## Instalation
+
+## Instruções
 
 Para rodar o projeto você precisará:
 
