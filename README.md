@@ -1,6 +1,6 @@
 # Desafio - Private Code
  
- ## Instalation
+ ## Instalação
 
 Para rodar o projeto você precisará:
 
@@ -19,3 +19,7 @@ TDD com jest
 ### `npm start`
 
 Para iniciar em desenvolvimento
+
+### ID para logar na aplicação como teste
+
+50d7be42
